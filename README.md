@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Jesse Keith, a creative technical problem-solv
 
 ### 💻 Projects
 
-- 🌟 [STARS Air Ambulance - Mission Request Data Analysis](https://github.com/jckeith/technical-portfolio/blob/6681c4132f3fc7e8c21785079ee9f37ef412d66f/STARS_Project_Report.pdf) - Masters Practicum at Georgia Tech working with a helicopter ambulance service to forecast times were demand will exceed capacity
+- 🌟 [STARS Air Ambulance - Mission Request Data Analysis](https://github.com/jckeith/technical-portfolio/blob/6681c4132f3fc7e8c21785079ee9f37ef412d66f/STARS_Project_Report.pdf) - Masters Practicum at Georgia Tech working with a helicopter ambulance service to forecast times where demand will exceed capacity
 - 🏈 [Machine Learning Fantasy Football](https://github.com/jckeith/technical-portfolio/blob/bc1e6f7256a46d9d43674335a1188cacc43a970c/team127report.pdf) - Using machine learning approaches for FF player selection (Team Project) - [Dashboard](https://public.tableau.com/app/profile/alex.haan7786/viz/2022FantasyDraftDashboard/DraftDashboard?publish=yes)
 - 🚴 [Peleton API Walk-through](https://github.com/jckeith/Peloton) - An exploration of how to pull personal fitness data from the onepeleton API
 
